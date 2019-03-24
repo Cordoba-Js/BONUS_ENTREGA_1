@@ -1,0 +1,15 @@
+{
+  "name": "primera_entrega_bonus",
+  "version": "1.0.1",
+  "description": "Bonus 1 del curso en el que se modifica la primera entrega para mostrar en el explorador lo que antes se generaba en un txt.",
+  "main": "cursos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhon Jairo Serna Córdoba (Cordoba-Js)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  }
+}
