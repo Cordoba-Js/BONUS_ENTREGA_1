@@ -12,3 +12,5 @@
 ## If you type command a), you will can see in console a list with three courses and their respective information.
 
 ## If you type command b), you will can see in console the error messages and in the localhost 8000 the correct message of enrollment in the course.
+
+## **NOTE**: The underscore "_" after -i=, -n= and -x= represents values that you must complete: Course ID, studemt's name and student´s ID respectively. 
